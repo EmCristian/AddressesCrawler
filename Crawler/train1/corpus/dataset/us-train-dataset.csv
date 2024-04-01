@@ -1,0 +1,45 @@
+﻿﻿Address,ROAD,ROAD_NUMBERS,CITY,REGION,COUNTRY,POSTCODE
+"503 Maurice St. Monroe, NC 28112", Maurice St., 503, Monroe, NC,'', 28112 
+"1234 Chestnut St, San Francisco, CA, USA, 94107",Chestnut St,1234,San Francisco,CA,USA,94107
+"5678 Broadway St Apt 301, New York, NY, USA, 10001",Broadway St,5678,New York,NY,USA,10001
+"9101 Main St, Los Angeles, CA, USA, 90001",Main St,9101,Los Angeles,CA,USA,90001
+"2468 Maple St Suite 102, Chicago, IL, USA, 60601",Maple St,2468,Chicago,IL,USA,60601
+"1357 Pine St Unit 3B, Houston, TX, USA, 77001",Pine St,1357,Houston,TX,USA,77001
+"9876 Oak St Floor 5, Miami, FL, USA, 33101",Oak St,9876,Miami,FL,USA,33101
+"5432 Elm St Building A, Boston, MA, USA, 02101",Elm St,5432,Boston,MA,USA,02101
+"7890 Willow St Lot 10, Seattle, WA, USA, 98101",Willow St,7890,Seattle,WA,USA,98101
+"1122 River St Penthouse, San Diego, CA, USA, 92101",River St,1122,San Diego,CA,USA,92101
+"3344 Lake St House 3, Atlanta, GA, USA, 30301",Lake St,3344,Atlanta,GA,USA,30301
+
+"503 Maurice St, Monroe, NC, USA, 28112",Maurice St,503,Monroe,NC,USA,28112
+"789 Maple Avenue, Springfield, IL, USA, 62701",Maple Avenue,789,Springfield,IL,USA,62701
+"456 Oak Street, Oakville, ON, Canada, L6J 2Z4",Oak Street,456,Oakville,ON,Canada,L6J 2Z4
+"101 Elm Road, Manchester, England, M1 1JQ",Elm Road,101,Manchester,,England,M1 1JQ
+"234 Park Place, New York, NY, USA, 10001",Park Place,234,New York,NY,USA,10001
+"567 Broadway, Los Angeles, CA, USA, 90001",Broadway,567,Los Angeles,CA,USA,90001
+"890 Victoria Street, Toronto, ON, Canada, M5H 2N6",Victoria Street,890,Toronto,ON,Canada,M5H 2N6
+"111 King Road, London, England, SW1A 1AA",King Road,111,London,,England,SW1A 1AA
+"222 Queen's Avenue, Hong Kong, China, 999077",Queen's Avenue,222,Hong Kong,,China,999077
+"333 George Place, Sydney, NSW, Australia, 2000",George Place,333,Sydney,NSW,Australia,2000
+
+"27 Abbey Rd, Cambridge, England, CB5 8HF",Abbey Rd,27,Cambridge,England,United Kingdom,CB5 8HF
+"45 High St, Oxford, England, OX1 4BJ",High St,45,Oxford,England,United Kingdom,OX1 4BJ
+"10 Park Ave, London, England, SW19 8AJ",Park Ave,10,London,England,United Kingdom,SW19 8AJ
+"5 King's Rd, Brighton, England, BN1 1NB",King's Rd,5,Brighton,England,United Kingdom,BN1 1NB
+"20 Queen St, Edinburgh, Scotland, EH2 1JX",Queen St,20,Edinburgh,Scotland,United Kingdom,EH2 1JX
+"8 Victoria Rd, Manchester, England, M1 3BG",Victoria Rd,8,Manchester,England,United Kingdom,M1 3BG
+"12 Station Rd, Glasgow, Scotland, G3 8ND",Station Rd,12,Glasgow,Scotland,United Kingdom,G3 8ND
+"3 Bridge St, Liverpool, England, L1 9HF",Bridge St,3,Liverpool,England,United Kingdom,L1 9HF
+"15 Market St, York, England, YO1 8SL",Market St,15,York,England,United Kingdom,YO1 8SL
+"30 High St, Bristol, England, BS1 5NT",High St,30,Bristol,England,United Kingdom,BS1 5NT
+
+"123 Rue de la Paix, Paris, France, 75002",Rue de la Paix,123,Paris,,France,75002
+"456 Rue du Faubourg Saint-Honoré, Paris, France, 75008",Rue du Faubourg Saint-Honoré,456,Paris,,France,75008
+"789 Rue de Rivoli, Paris, France, 75001",Rue de Rivoli,789,Paris,,France,75001
+"101 Rue de Vaugirard, Paris, France, 75006",Rue de Vaugirard,101,Paris,,France,75006
+"234 Oxford Road, Manchester, England, M13 9PG",Oxford Road,234,Manchester,,England,M13 9PG
+"567 Park Avenue, New York, NY, USA, 10022",Park Avenue,567,New York,NY,USA,10022
+"890 Baker Street, London, England, NW1 5RU",Baker Street,890,London,,England,NW1 5RU
+"111 Abbey Road, London, England, NW8 9AY",Abbey Road,111,London,,England,NW8 9AY
+"222 Sunset Boulevard, Los Angeles, CA, USA, 90069",Sunset Boulevard,222,Los Angeles,CA,USA,90069
+"333 Elm Street, Boston, MA, USA, 02111",Elm Street,333,Boston,MA,USA,02111

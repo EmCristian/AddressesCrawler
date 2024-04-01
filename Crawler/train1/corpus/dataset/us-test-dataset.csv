@@ -1,0 +1,11 @@
+Address,ROAD,ROAD_NUMBERS,CITY,REGION,COUNTRY,POSTCODE
+"123 Main Street, Springfield, IL, USA, 62701",Main Street,123,Springfield,IL,USA,62701
+"456 Elm Avenue, Oakville, ON, Canada, L6J 2Z4",Elm Avenue,456,Oakville,ON,Canada,L6J 2Z4
+"789 High Street, Manchester, England, M1 1JQ",High Street,789,Manchester,,England,M1 1JQ
+"101 Maple Road, Sydney, NSW, Australia, 2000",Maple Road,101,Sydney,NSW,Australia,2000
+"234 Park Lane, New York, NY, USA, 10001",Park Lane,234,New York,NY,USA,10001
+"567 Broadway, Los Angeles, CA, USA, 90001",Broadway,567,Los Angeles,CA,USA,90001
+"890 Victoria Avenue, Toronto, ON, Canada, M5H 2N6",Victoria Avenue,890,Toronto,ON,Canada,M5H 2N6
+"111 King Street, London, England, SW1A 1AA",King Street,111,London,,England,SW1A 1AA
+"222 Queen's Road, Hong Kong, China, 999077",Queen's Road,222,Hong Kong,,China,999077
+"333 George Street, Sydney, NSW, Australia, 2000",George Street,333,Sydney,NSW,Australia,2000
