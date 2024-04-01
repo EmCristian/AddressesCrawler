@@ -3,12 +3,12 @@
 Read a parquet file which contains page domains and crawl for addresses ( geographical location )  and export them to a nice format as following:
 country, region, city, postcode, road, and road numbers. 
 
-Main tools:
+# Main tools:
 * python 3.12.2 
 * Spacy
 * pyap
 
-Encountered issues:
+# Encountered issues:
 * Addresses could exist on different pages so we should cover all the pages ( went only for home, about and contact pages )
 * Pyap is focused mostly on us addresses so Spacy helped a lot to process the addresses
 
