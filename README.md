@@ -38,7 +38,7 @@ You can add more data to corpus/dataset csv files and retrain the model
 `python train2.py`
 To add more training data edit the file and append to train_data.
 
-
+# Conclusion
 The file extracted_addresses contains the addresses found on the first 100 page domains. Due to lack of train data, the accuracy was not high, but I strongly believe a large set of data would impact positively the result.
 
 
