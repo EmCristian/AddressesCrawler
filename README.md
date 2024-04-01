@@ -26,9 +26,9 @@ custom_ner_model_path = "mymodel"  # Update with your model path
 To train a model you can use Train1 folder or train2.py
 
 # Train1:
-  ## `cd Train1`
-  ## `python training_data_prep.py`
-  ## `python -m spacy train config\config.cfg --paths.train corpus\spacy-docbins\train.spacy --paths.dev corpus\spacy-docbins\test.spacy --output output\models -- 
+   `cd Train1`
+   `python training_data_prep.py`
+   `python -m spacy train config\config.cfg --paths.train corpus\spacy-docbins\train.spacy --paths.dev corpus\spacy-docbins\test.spacy --output output\models -- 
  training.eval_frequency 10 --training.max_steps 300`
 
 Then must use the new generated model in the output folder
