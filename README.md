@@ -13,9 +13,9 @@ Encountered issues:
 * Pyap is focused mostly on us addresses so Spacy helped a lot to process the addresses
 
 
-How to run:
-cd Crawler
-python Crawler.py
+# How to run:
+`cd Crawler`
+`python Crawler.py`
 
 To crawl more rows modify the next line:
 first_100_rows = next(df.iter_batches(batch_size = 100)) 
