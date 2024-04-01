@@ -34,7 +34,7 @@ To train a model you can use Train1 folder or train2.py
 Then must use the new generated model in the output folder
 You can add more data to corpus/dataset csv files and retrain the model
 
-Train2:
+# Train2:
 `python train2.py`
 To add more training data edit the file and append to train_data.
 
