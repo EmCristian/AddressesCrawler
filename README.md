@@ -18,10 +18,10 @@ country, region, city, postcode, road, and road numbers.
 `python Crawler.py`
 
 To crawl more rows modify the next line:
-first_100_rows = next(df.iter_batches(batch_size = 100)) 
+`first_100_rows = next(df.iter_batches(batch_size = 100)) `
 
 To use a different trained model modify the following line:
-custom_ner_model_path = "mymodel"  # Update with your model path
+`custom_ner_model_path = "mymodel"  # Update with your model path`
 
 To train a model you can use Train1 folder or train2.py
 
